@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ezedaniel
-- 👀 I’m interested in bioinformatics
-- 🌱 I’m currently learning RNA seq data analystics with python
-- 💞️ I’m looking to collaborate on cancer research
+- 👀 I’m interested in database analysis and development
+- 🌱 
+- 💞️ I’m looking to collaborate on research
 - 📫 How to reach me eze_d@yahoo.com
 
 <!---
