@@ -1,6 +1,8 @@
-👋 Hi, I’m Daniel Eze and have experienced working as a data analyst and Project Management.
+👋 Hi, 
 
-🧑‍💻 When I'm not at work consulting or managing projects, you can often find me coding, learning new stuff, and honing my skills on various areas including ✳️ Machine Learning, ✳️ Data Science ✳️ Data Visualization projects.
+I’m Daniel Eze and have experienced working as a data analyst and Project Management.
+
+🧑‍💻 When I'm not at work you can often find me coding, learning new stuff, and honing my skills on various areas including ✳️ Machine Learning, ✳️ Data Science ✳️ Data Visualization projects.
 
 I also love working with different technologies & platforms and my current favorite ones are
 
