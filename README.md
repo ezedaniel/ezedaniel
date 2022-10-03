@@ -10,7 +10,7 @@ I also love working with different technologies & platforms and my current favor
 ❤️ Python
 ❤️ Tableau
 
-- 👀 I’m interested in database analysis and development
+- 👀 I’m interested in data driven business development
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me eze_d@yahoo.com
 
