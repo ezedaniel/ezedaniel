@@ -10,11 +10,13 @@ I also love working with different technologies & platforms and my current favor
 ❤️ Python
 ❤️ Tableau
 
+Currently learning JavaScript, Es6 and TypeScript 
+
 - 👀 I’m interested in data driven business development
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me eze_d@yahoo.com
 
-currently learning JavaScript, Es6 and TypeScript 
+
 
 <!---
 ezedaniel/ezedaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
